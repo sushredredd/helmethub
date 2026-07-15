@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 270" role="img" aria-label="Royal Enfield Classic Camo MLG — Battle Green Camo">
+<defs><linearGradient id="g522" x1="0" y1="0" x2="0.8" y2="1">
+<stop offset="0" stop-color="#72905D"/><stop offset=".55" stop-color="#556B45"/><stop offset="1" stop-color="#334029"/>
+</linearGradient></defs>
+<ellipse cx="190" cy="252" rx="140" ry="12" fill="#000" opacity=".18"/>
+<g transform="translate(14,10)"><path d="M60 150 C60 70 120 30 190 30 C258 30 306 74 312 140 L312 168 C312 176 306 182 298 182 L86 182 C70 182 60 170 60 150 Z" fill="url(#g522)" stroke="#334029" stroke-width="3"/><path d="M150 92 C210 80 276 86 306 106 L306 150 C306 162 296 170 284 170 L150 170 Z" fill="#0F1319" opacity=".18"/><path d="M138 92 C200 78 280 84 314 108 L306 128 C268 110 200 106 146 116 Z" fill="#20242C" stroke="#0B0D11" stroke-width="3" opacity=".9"/><path d="M96 176 L306 176 L306 166 L96 166 Z" fill="#E06A1F" opacity=".9"/><text x="188" y="222" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="2" fill="#E9EAEC" opacity=".85">ROYAL ENFIELD</text></g></svg>
